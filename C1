@@ -1,0 +1,22 @@
+'''
+Flask Install
+
+check if installed
+virtualenv --version
+
+to install flask in windows, download from:
+https://bitbucket.org/pypa/setuptools
+run ez_setup.py
+
+create a python virtual environment
+virtualenv venv
+
+activate virtual environment
+venv\Scripts\activate
+
+deactivate virtual environment
+venv\Scripts\disactivate
+
+Python Install
+pip install flask
+'''
